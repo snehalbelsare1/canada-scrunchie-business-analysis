@@ -15,8 +15,7 @@ This project analyzes sales, profitability, and customer behavior for a scrunchi
 - Top products drive majority of revenue (Pareto effect)
 
 # Dashboard Preview 
-![Dashboard](dashboard.png)
-
+![Dashboard] Pictures/Dashboard_Power_BI.png
 # Files Included
 - Power BI Dashboard (.pbix)
 - SQL Scripts
