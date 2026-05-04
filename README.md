@@ -19,9 +19,13 @@ This project analyzes sales, profitability, and customer behavior for a scrunchi
 ![Dashboard](Pictures/Dashboard_Power_BI.png)
 
 # Files Included
-- [Power BI Dashboard] (Power BI/Canada_Scrunchie_Business.pbix)
+- [Power BI Dashboard](Power BI/Canada_Scrunchie_Business.pbix)
 - [SQL Scripts](SQL)
-- [Dataset]
+- [Dataset](Data)
+
+# Dataset Structure
+- Raw Tables: Original structured dataset
+- Final Dataset: Cleaned and transformed dataset used for analysis
 
 # Key Features 
 - KPI Tracking (Revenue, Profit, Margin)
