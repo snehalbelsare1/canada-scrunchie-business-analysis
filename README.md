@@ -19,7 +19,7 @@ This project analyzes sales, profitability, and customer behavior for a scrunchi
 ![Dashboard](Pictures/Dashboard_Power_BI.png)
 
 # Files Included
-- [Power BI Dashboard](Power BI/Canada_Scrunchie_Business.pbix)
+- [Power BI Dashboard](Power BI)
 - [SQL Scripts](SQL)
 - [Dataset](Data)
 
